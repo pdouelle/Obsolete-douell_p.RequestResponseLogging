@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.douell_p.RequestResponseLogging.iml
+# Datasource local storage ignored files
+/../../../../../../../:\development\my_workspace\douell_p.RequestResponseLogging\.idea\.idea.douell_p.RequestResponseLogging\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
